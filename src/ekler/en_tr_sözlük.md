@@ -1,0 +1,1 @@
+# İngilizce Türkçe Sözlük
