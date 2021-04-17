@@ -1,2 +1,5 @@
-# mulakatkitabi
-Yazılm Mülakatlarına Hazırlık Kitabı, mulakatkitabi.com
+# Mülakat Kitabı
+Yazılm Mülakatlarına Hazırlık Kitabı
+
+# Lisans, Kullanım Hakkı
+MIT License
