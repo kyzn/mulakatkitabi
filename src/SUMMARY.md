@@ -5,8 +5,8 @@
 
 - [İş Arama](./iş_arama.md)
   - [Bağlantılar](./iş_arama/bağlantılar.md)
-  - [Topluluklar](./iş_arama//topluluklar.md)
-  - [İş İlanları](./iş_arama//iş_ilanları.md)
+  - [Topluluklar](./iş_arama/topluluklar.md)
+  - [İş İlanları](./iş_arama/iş_ilanları.md)
 
 - [Temel Konular](./temel_konular.md)
   - [Açık Kaynak](./temel_konular/açık_kaynak.md)
