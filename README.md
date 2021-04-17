@@ -14,7 +14,7 @@ Burası [Mülakat Kitabı](https://mulakatkitabi.com)'nın mdbook reposudur. Ser
 
 - `docs/` dizinini ve commitini hazırlayın:
 
-      rm -rf docs/ && mdbook build -d docs/ && echo -n "mulakatkitabi.com" > docs/CNAME && git add docs/ && git commit -m "generate docs"
+      rm -rf docs/ && mdbook build -d docs/ && git add docs/ && git commit -m "generate docs"
 
 - mdbook yazılımını macOS işletim sisteminde şu şekilde yükleyebilirsiniz:
 
