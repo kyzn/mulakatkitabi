@@ -6,7 +6,7 @@ Burası [Mülakat Kitabı](https://mulakatkitabi.com)'nın mdbook reposudur. Ser
 
 - Yerel makinede test etmek için:
 
-      mdbook serve -d docs/
+      mdbook serve
 
 - Daha sonra tarayıcınızdan şu adrese gidin:
 
