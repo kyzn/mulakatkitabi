@@ -4,3 +4,9 @@ language = "tr"
 multilingual = false
 src = "src"
 title = "Mülakat Kitabı"
+description = "Yazılım Mülakatlarına Hazırlık Kitabı"
+
+[output.html]
+git-repository-url = "https://github.com/kyzn/mulakatkitabi"
+cname = "mulakatkitabi.com"
+additional-js = ["js/goat.js"]
