@@ -1,13 +1,13 @@
 # Proje İletişim Adresleri
 
-- GitHub: https://github.com/kyzn/mulakatkitabi
-- Twitter: https://twitter.com/mulakatkitabi
+- GitHub: [github.com/kyzn/mulakatkitabi](https://github.com/kyzn/mulakatkitabi)
+- Twitter: [twitter.com/mulakatkitabi](https://twitter.com/mulakatkitabi)
 
 # Yazar İletişim Adresleri
 
-- Kıvanç Yazan, https://kyzn.org, `kyzn at cpan dot org`
-- GitHub: https://github.com/kyzn
-- Twitter: https://twitter.com/kyznorg
+- Kıvanç Yazan, [kyzn.org](https://kyzn.org), `kyzn at cpan dot org`
+- GitHub: [github.com/kyzn](https://github.com/kyzn)
+- Twitter: [twitter.com/kyznorg](https://twitter.com/kyznorg)
 
 # Lisans
 
