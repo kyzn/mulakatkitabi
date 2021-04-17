@@ -1,0 +1,6 @@
+[book]
+authors = ["Kıvanç Yazan"]
+language = "tr"
+multilingual = false
+src = "src"
+title = "Mülakat Kitabı"
